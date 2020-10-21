@@ -1,0 +1,39 @@
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# IntelliJ
+.idea
+*.ipr
+*.iml
+*.iws
+
+# NetBeans
+nb-configuration.xml
+
+# Visual Studio Code
+.vscode
+.factorypath
+
+# OSX
+.DS_Store
+
+# Vim
+*.swp
+*.swo
+
+# patch
+*.orig
+*.rej
+
+# Gradle
+.gradle/
+build/
+
+# UI generated files
+**/build/bundle.*
+
+# static resources
+src/main/resources/META-INF/resources/static
